@@ -6,7 +6,7 @@ public class Memurlar extends Calisan {
         this.department=department;
 
     } public String giris() {
-        return this.name + " adlı çalısan A kapısından giriş yaptı";
+        return this.name + " adlı çalısan A kapısından giriş yapmıştır";
     }
 public String getDepartment(){
         return department;
